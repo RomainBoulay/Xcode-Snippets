@@ -8,11 +8,8 @@ In Xcode 4, open a workspace and toggle the right sidebar to be visible. On the 
 
 Now copy-paste the code from one of these snippets, highlight the code block you just pasted and drag it to the Code Snippet panel. Make sure to match the suggested platform, language, and completion scope. The completion shortcut corresponds to the filename of the code snippet.
 
-# Forked
+# MISC
 
-Updated with personal formatting.
-
-# TODOs
-
-  Add block snippets
+Snippets have been updated with my personal formatting and I am planning to:
+*  Add block snippets
   

@@ -5,8 +5,8 @@
 // Language: Objective-C
 // Completion Scope: Class Implementation
 
-#pragma mark - NSFetchedResultsControllerDelegate
 
+#pragma mark - NSFetchedResultsControllerDelegate
 - (void)controllerWillChangeContent:(NSFetchedResultsController *)controller {
     [self.tableView beginUpdates];
 }

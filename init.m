@@ -6,10 +6,8 @@
 // Completion Scope: Function or Method
 
 self = [super init];
-if (!self) {
-  return nil;
+if (self) {
+    <#initializations#>
 }
-
-<#initializations#>
 
 return self;

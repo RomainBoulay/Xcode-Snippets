@@ -5,8 +5,11 @@
 // Language: Objective-C
 // Completion Scope: Class Implementation
 
-#pragma mark - UITableViewDelegate
 
+
+#pragma mark - UITableViewDelegate
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+    
     <#statements#>
 }

@@ -1,5 +1,5 @@
 // String from selector
-// 
+// Perso: stringselector.
 //
 // IDECodeSnippetCompletionPrefix: stringselector
 // IDECodeSnippetCompletionScopes: [StringOrComment]

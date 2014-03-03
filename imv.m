@@ -6,5 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-
 [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"<#image name#>"]]

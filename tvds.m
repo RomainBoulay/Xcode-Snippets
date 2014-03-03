@@ -1,9 +1,11 @@
 // UITableViewDataSource
 // Placeholders for the core table view data source methods
-// 
-// Platform: iOS
+//
+// IDECodeSnippetIdentifier: 31858882-A996-4CAD-B8FE-DEF9D26ECF3D
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 
 

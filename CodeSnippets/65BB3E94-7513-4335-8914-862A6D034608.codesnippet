@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>exceptionmethod</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#methodScope#&gt; (&lt;#returnType#&gt;)&lt;#methodName#&gt; {
+#ifdef DEBUG
+    @throw [NSException exceptionWithName:NSInternalInconsistencyException
+                                   reason:[NSString stringWithFormat:@"You must override %@ in a subclass. Context: %@", NSStringFromSelector(_cmd), NSStringFromClass(self.class)]
+                                 userInfo:nil];
+#endif
+    
+    return &lt;#returnType#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>65BB3E94-7513-4335-8914-862A6D034608</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Overwritable method</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Overwritable method</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

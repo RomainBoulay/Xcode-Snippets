@@ -1,5 +1,5 @@
 // UIViewController Lifecycle
-// 
+// Placeholders for all of the view controller lifecycle methods
 //
 // IDECodeSnippetCompletionPrefix: lifecycle
 // IDECodeSnippetCompletionScopes: [All]

@@ -1,5 +1,5 @@
 // String from selector
-// Perso: stringselector.
+// Perso: stringselector. NSStringFromSelector(@selector(<#selName#>))
 //
 // IDECodeSnippetCompletionPrefix: stringselector
 // IDECodeSnippetCompletionScopes: [StringOrComment]
@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSStringFromSelector(@selector(<#Section#>))
+NSStringFromSelector(@selector(<#selName#>))

@@ -7,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+
+
 #pragma mark - UIViewController
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -24,9 +26,11 @@
     [super viewDidAppear:animated];
 }
 
+
 - (void)viewWillDisappear:(BOOL)animated {
 	[super viewWillDisappear:animated];
 }
+
 
 - (void)viewDidDisappear:(BOOL)animated {
 	[super viewDidDisappear:animated];

@@ -14,5 +14,5 @@
         _sharedInstance = <#initializer#>;
     });
     
-    return _shared<#name#>;
+    return _sharedInstance;
 }

@@ -1,5 +1,5 @@
 // Shared Singleton
-// 
+// Perso: shared. (instancetype)shared...
 //
 // IDECodeSnippetCompletionPrefix: shared
 // IDECodeSnippetCompletionScopes: [All]
@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-+ (instancetype)shared<#name#> {
++ (instancetype)sharedInstance {
     static <#class#> *_shared<#name#> = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{

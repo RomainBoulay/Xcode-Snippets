@@ -1,7 +1,7 @@
 // NSLocalizedString
-// 
+// Perso: _loca. NSLocalizedString...
 //
-// IDECodeSnippetCompletionPrefix: loca
+// IDECodeSnippetCompletionPrefix: _loca
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 9A886E6B-DC90-4779-B9B8-031B48D1C0A4
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C

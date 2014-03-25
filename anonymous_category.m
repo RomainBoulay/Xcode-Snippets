@@ -1,5 +1,5 @@
 // Anonymous category
-// Perso: continuation. @interface ()...
+// Perso: _continuation. @interface ()...
 //
 // IDECodeSnippetCompletionPrefix: _continuation
 // IDECodeSnippetCompletionScopes: [TopLevel]

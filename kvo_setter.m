@@ -1,7 +1,7 @@
 // KVO Setter
-// 
+// Perso: _kvo. willChangeValueForKey...
 //
-// IDECodeSnippetCompletionPrefix: kvo
+// IDECodeSnippetCompletionPrefix: _kvo
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: E6E7CBFD-E1F4-4502-A3F6-EEECF2977A19
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C

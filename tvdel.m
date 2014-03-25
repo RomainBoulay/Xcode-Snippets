@@ -1,6 +1,7 @@
 // UITableViewDelegate
-// Placeholders for the core table view delegate methods
+// Perso: _didSelectRowAtIndexPath. didSelectRowAtIndexPath...
 //
+// IDECodeSnippetCompletionPrefix: _didSelectRowAtIndexPath
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: A5660D94-26E8-4C31-BFAA-8CC34B2E0214
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C

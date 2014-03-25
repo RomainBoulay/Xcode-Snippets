@@ -1,7 +1,7 @@
 // UIViewController Lifecycle
-// Placeholders for all of the view controller lifecycle methods
+// Perso: _lifecycle. - (void)viewDidLoad...
 //
-// IDECodeSnippetCompletionPrefix: lifecycle
+// IDECodeSnippetCompletionPrefix: _lifecycle
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 3235B6F6-F9D8-4BD7-9735-322314E631B0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C

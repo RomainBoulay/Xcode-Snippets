@@ -8,3 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 extern <#variableType#> * const <#variableName#>;
+NSString * const HostThreadsURLPath = @"api/v3/host_threads";

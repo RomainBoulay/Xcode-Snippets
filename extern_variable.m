@@ -1,5 +1,5 @@
 // Extern variable
-// Perso: _extern variable
+// Perso: _extern variable. Declaration and assignation
 //
 // IDECodeSnippetCompletionPrefix: _extern
 // IDECodeSnippetCompletionScopes: [TopLevel]

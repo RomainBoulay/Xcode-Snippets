@@ -1,6 +1,7 @@
 // UITableViewDataSource
-// Placeholders for the core table view data source methods
+// Perso: _tableViewDataSource. numberOfSectionsInTableView:...
 //
+// IDECodeSnippetCompletionPrefix: _tableViewDataSource
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 31858882-A996-4CAD-B8FE-DEF9D26ECF3D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C

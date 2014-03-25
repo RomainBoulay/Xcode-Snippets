@@ -1,7 +1,7 @@
 // Shared Singleton
-// Perso: shared. (instancetype)shared...
+// Perso: _shared. (instancetype)shared...
 //
-// IDECodeSnippetCompletionPrefix: shared
+// IDECodeSnippetCompletionPrefix: _shared
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 00AE9EC0-6316-4ECD-BCFE-1D1CCF5D45A3
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C

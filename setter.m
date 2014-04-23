@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
             
-- (void)set<#CapitalizedPropertyName#>:(<#propertyObjectType#> *)value {
-    _<#propertyName#> = value;
+- (void)set<#CapitalizedPropertyName#>:(<#propertyObjectType#> *)<#propertyName#> {
+    _<#propertyName#> = <#propertyName#>;
 }
 

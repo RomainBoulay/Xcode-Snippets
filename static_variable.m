@@ -1,5 +1,5 @@
-// Static variable
-// 
+// Static const variable
+// Perso: _
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 2BBD6396-86F9-4C7B-86A9-85D12B21622C

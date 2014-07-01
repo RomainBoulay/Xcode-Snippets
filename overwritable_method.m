@@ -1,7 +1,7 @@
 // Overwritable method
-// Perso: _exceptionmethod. @throw [NSException exceptionWithName:...
+// Perso: _throwexceptionmethodbody. @throw [NSException exceptionWithName:...
 //
-// IDECodeSnippetCompletionPrefix: _exceptionmethod
+// IDECodeSnippetCompletionPrefix: _throwexceptionmethodbody
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 65BB3E94-7513-4335-8914-862A6D034608
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
